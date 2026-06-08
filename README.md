@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/v/release/dev-uniq/cs16horror?style=for-the-badge&color=brightgreen" alt="Release">
   <img src="https://img.shields.io/github/downloads/dev-uniq/cs16horror/total?style=for-the-badge&color=blue" alt="Downloads">
+  <a href="https://t.me/fompusbio" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
@@ -14,12 +15,12 @@
 
 ---
 
-## 📥 Скачать сборку
+## 📥 Скачать и Поддержка
 
-Используйте кнопки ниже для быстрого доступа к файлам:
+Используйте кнопки ниже для скачивания файлов и связи с нами:
 
 [![Скачать Мод](https://img.shields.io/badge/СКАЧАТЬ_МОД-🟢_Direct_Download-success?style=for-the-badge&logo=github)](https://github.com/dev-uniq/cs16horror/releases/latest)
-[![Релизы](https://img.shields.io/badge/Все_Релизы-Перейти-blue?style=for-the-badge&logo=github)](https://github.com/dev-uniq/cs16horror/releases)
+[![Телеграм](https://img.shields.io/badge/Наш_Telegram-✈️_Перейти-0088cc?style=for-the-badge&logo=telegram)](https://t.me/fompusbio)
 
 ---
 
@@ -36,3 +37,8 @@
 2. Распакуйте архив в корневую папку вашего сервера (заменяя файлы, если потребуется).
 3. Настройте `addons/amxmodx/configs/plugins-zpl.ini` под себя.
 4. Запустите сервер и наслаждайтесь игрой!
+
+---
+
+## 💬 Контакты
+Если у вас возникли вопросы по настройке плагинов или вы нашли баг — пишите в наш [Telegram-канал](https://t.me/fompusbio).
